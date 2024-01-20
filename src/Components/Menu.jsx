@@ -157,7 +157,7 @@ export default function Menu() {
                 <Heading>Contact Us</Heading>
                 <FaArrowRight />
               </Center>
-              <Center color={"black"} display={"flex"} gap={"0.8em"}>
+              <Center color={"black"} display={"flex"} gap={"0.8em"} p={"0.5em"}>
                 <Box
                   backgroundColor={"#DC6E66"}
                   p={"0.2em"}
