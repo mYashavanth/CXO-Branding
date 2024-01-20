@@ -43,7 +43,7 @@ const SliderComponent = () => {
   };
 
   return (
-    <Box>
+    <Box overflowX={"hidden"}>
       <Slider {...settings} className="slider">
         <Box p={"1em"}>
           <Box
