@@ -56,7 +56,7 @@ export default function Menu() {
           />
           <DrawerHeader>Menu</DrawerHeader>
 
-          <DrawerBody border={"1px solid white"}>
+          <DrawerBody border={"1px solid white"} borderRadius={"1em"}>
             <Box
               display={"grid"}
               gridTemplateColumns={{
