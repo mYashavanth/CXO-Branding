@@ -1,7 +1,6 @@
-body{
-    overflow-x: hidden;
+body {
+  overflow-x: hidden;
 }
-
 
 /* SliderStyles.css */
 .slick-slide {
@@ -20,8 +19,6 @@ body{
 .slider {
   height: 430px;
 }
-
-
 
 /* SliderStyles.css */
 .slick-dots {
@@ -54,12 +51,18 @@ body{
 }
 
 @media all and (max-width: 1024px) {
+  body {
+    overflow-x: hidden;
+  }
   .slider {
     height: 620px;
   }
 }
 
 @media all and (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
   .slider {
     height: 460px;
   }
