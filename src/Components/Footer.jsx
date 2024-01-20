@@ -18,6 +18,7 @@ export default function Footer() {
         justifyContent={"center"}
         gap={"0.5em"}
         p={"2em"}
+        borderBottom={"0.7em solid #DC6E66"}
       >
         <Image src={logo} alt="logo" width={"10em"} />
         <Text color={"white"}>
@@ -29,7 +30,7 @@ export default function Footer() {
           <Text color={"white"}>-----</Text>
           <Text color={"orange"}>-</Text>
         </Center>
-        <Center color={"white"} display={"flex"} gap={"0.2em"}>
+        <Center color={"black"} display={"flex"} gap={"0.2em"}>
           <Box
             backgroundColor={"#DC6E66"}
             p={"0.2em"}
