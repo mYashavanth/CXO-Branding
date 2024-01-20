@@ -51,18 +51,12 @@ body {
 }
 
 @media all and (max-width: 1024px) {
-  body {
-    overflow-x: hidden;
-  }
   .slider {
     height: 620px;
   }
 }
 
 @media all and (max-width: 768px) {
-  body {
-    overflow-x: hidden;
-  }
   .slider {
     height: 460px;
   }
