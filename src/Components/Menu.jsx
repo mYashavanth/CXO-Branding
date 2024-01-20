@@ -159,7 +159,7 @@ export default function Menu() {
               </Center>
               <Center color={"black"} display={"flex"} gap={"0.8em"} p={"0.5em"}>
                 <Box
-                  backgroundColor={"#DC6E66"}
+                  backgroundColor={"#F2B86B80"}
                   p={"0.2em"}
                   border={"1.6px solid white"}
                   borderRadius={"0.5em"}
@@ -167,7 +167,7 @@ export default function Menu() {
                   <RiFacebookFill fontSize={"1.5em"} />
                 </Box>
                 <Box
-                  backgroundColor={"#DC6E66"}
+                  backgroundColor={"#F2B86B80"}
                   p={"0.2em"}
                   border={"1.6px solid white"}
                   borderRadius={"0.5em"}
@@ -175,7 +175,7 @@ export default function Menu() {
                   <BiLogoInstagramAlt fontSize={"1.5em"} />
                 </Box>
                 <Box
-                  backgroundColor={"#DC6E66"}
+                  backgroundColor={"#F2B86B80"}
                   p={"0.2em"}
                   border={"1.6px solid white"}
                   borderRadius={"0.5em"}
@@ -183,7 +183,7 @@ export default function Menu() {
                   <FaLinkedinIn fontSize={"1.5em"} />
                 </Box>
                 <Box
-                  backgroundColor={"#DC6E66"}
+                  backgroundColor={"#F2B86B80"}
                   p={"0.2em"}
                   border={"1.6px solid white"}
                   borderRadius={"0.5em"}
